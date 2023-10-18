@@ -11,6 +11,7 @@ import Minput from './Minput';
 function App() {
   return (
     <div className="App">
+      <h1>Faizan</h1>
      
      
       <Counter/>
